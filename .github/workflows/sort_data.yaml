@@ -1,6 +1,7 @@
 name: Check and sort CSV
 
 on:
+  workflow_dispatch:
   pull_request:
     branches:
       - main
