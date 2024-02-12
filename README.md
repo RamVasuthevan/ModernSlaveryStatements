@@ -1,3 +1,3 @@
-# Modern Slavery Statements
+# [Modern Slavery Statements](https://modernslaverystatements.com)
 
-Small website explaining modern slavery statements with some examples
+A small website explaining modern slavery statements with some examples
