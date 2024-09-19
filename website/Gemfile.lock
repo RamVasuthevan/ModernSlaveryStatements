@@ -1,3 +1,4 @@
+git commit --allow-empty -m "Empty commit"
 GEM
   remote: https://rubygems.org/
   specs:
